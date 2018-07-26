@@ -1,4 +1,4 @@
-CHAPTERS = $(wildcard chapters/*.md)
+CHAPTERS = $(shell ls chapters/*.md)
 
 EPUB_FILE = build/book.epub
 MOBI_FILE = build/book.mobi

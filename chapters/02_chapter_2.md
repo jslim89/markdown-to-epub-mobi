@@ -1,10 +1,10 @@
 \newpage
-# Chapter 1
+# Chapter 2
 
-## Heading 1.1
+## Heading 2.1
 
 Here is some content.
 
-## Heading 1.2
+## Heading 2.2
 
 And some more content.

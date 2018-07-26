@@ -1,6 +1,6 @@
-<dc:title>My Ebook Title</dc:title>
+<dc:title>The awesome book title</dc:title>
 <dc:language>en-GB</dc:language>
-<dc:creator opf:file-as="Furley, Paul" opf:role="aut">Paul Furley</dc:creator>
-<dc:publisher>paulfurley.com</dc:publisher>
-<dc:date opf:event="publication">2014-08-01</dc:date>
-<dc:rights>Copyright © 2014 Paul M Furley</dc:rights>
+<dc:creator opf:file-as="JS Lim" opf:role="author">JS Lim</dc:creator>
+<dc:publisher>jslim.net</dc:publisher>
+<dc:date opf:event="publication">2018-08-01</dc:date>
+<dc:rights>Copyright © 2018 JS Lim</dc:rights>
